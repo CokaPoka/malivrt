@@ -1,0 +1,64 @@
+.easter-basket-container {
+    padding-top: 310px;
+    width: 1160px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.easter-basket-item {
+    width: 250px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    border: 1px solid black;
+    margin: 15px;
+    align-items: center;
+}
+
+.btn-item-details {
+    border: none;
+    cursor: pointer;
+}
+
+.item-img {
+    height: 200px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item-title {
+    height: 70px;
+}
+
+.item-title-text {
+    margin: 10px 0;
+}
+
+.price-item-text {
+    margin: 0;
+    font-size: 30px;
+    font-weight: 900;
+    color: #fc5959;
+}
+
+.item-basket {
+    display: flex;
+    justify-content: flex-end;
+    width: 50px;
+}
+
+.item-info {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    align-items: center;
+}
+
+.item-price {
+    display: flex;
+    align-items: center;
+}

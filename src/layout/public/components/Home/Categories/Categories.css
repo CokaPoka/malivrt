@@ -1,0 +1,18 @@
+.categories-container {
+    width: 100%;
+    height: auto;
+}
+
+.album-categories-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 30px;
+}
+
+.album-container {
+    width: 270px;
+    height: 200px;
+    background-color: rgb(197, 196, 196);
+}

@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  color: rgb(131, 130, 130);
+  font-family: 'Amatic SC', cursive;
+  letter-spacing: 0.1rem;
+  font-weight: 700;
+}
+
+code {
+  font-family: 'Amatic SC', cursive;
+}
+
+h1, h2, h3, h4, a, li, ul {
+  font-family: 'Amatic SC', cursive;
+  letter-spacing: 0.1rem;
+  font-weight: 700;
+}

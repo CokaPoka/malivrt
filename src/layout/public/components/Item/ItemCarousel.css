@@ -1,0 +1,24 @@
+.item-carousel-container {
+    height: 300px;
+    width: 500px;
+}
+
+.item-details-carousel-slide-container {
+    height: 500px;
+    width: 500px;
+}
+
+.item-details-img {
+    height: 100%;
+}
+
+.thumb {
+    height: 100px;
+    width: auto;
+    background-size: cover;
+    object-fit: cover;
+}
+
+.carousel-root {
+    height: 400px;
+}
